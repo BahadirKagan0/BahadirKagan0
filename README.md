@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bahadirkaganozturk0
+- 👀 I’m interested in software
+- 🌱 I’m currently learning software
