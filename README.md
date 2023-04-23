@@ -1,5 +1,5 @@
 
-<h1>Hi <img width="35" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.png" />, I'm Bahadır.</h1>
+<h1>Hi&nbsp, I'm Bahadır.</h1>
 
 - <h2>About</h2>
 
