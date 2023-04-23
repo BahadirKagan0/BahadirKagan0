@@ -13,7 +13,7 @@
 <br>
 
 - <h2 width="100%"> Technologies I use</h2>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,react,vue,svelte,nextjs,nuxtjs,nodejs,mongodb,vscode,git,java,css,html,netlify,tailwindcss,webpack,express,ps,ae,discord,python,php,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,nodejs,mongodb,vscode,git,java,css,html,tailwindcss,webpack,express,ps,ae,discord,python,php,&theme=dark" />
 
 <br>
 
