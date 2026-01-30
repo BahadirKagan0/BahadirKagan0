@@ -3,7 +3,7 @@
 
 - <h2>About</h2>
 
-- Hello, I'm Kağan. I am 17 years old. I am Developer and Editor. I live in Turkey. I'm a High School Student and I'm Reading in the Software Development Category.I'm Better On The Back End Than The Front End.You Can See What They Skills. Thank you for reading ❤️
+- Hello, I'm Kağan. I am 18 years old. I am Developer and Editor. I live in Turkey. I'm a High School Student and I'm Reading in the Software Development Category.I'm Better On The Back End Than The Front End.You Can See What They Skills. Thank you for reading ❤️
             
 - Personal website: [bahadirkagann.xyz](https://bahadirkagann.xyz)
 
